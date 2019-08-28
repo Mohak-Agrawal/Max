@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602005957421",
+    "firebase_url": "https://login-5cbed.firebaseio.com",
+    "project_id": "login-5cbed",
+    "storage_bucket": "login-5cbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602005957421:android:5c6490f1a4a4e033",
+        "android_client_info": {
+          "package_name": "com.max_gc.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602005957421-asb7jn1bdlhd12vnrtnregj11fepqk3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLu1l0DVUgp3lD8kgC4jsYbvh2BXEDC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602005957421-asb7jn1bdlhd12vnrtnregj11fepqk3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
